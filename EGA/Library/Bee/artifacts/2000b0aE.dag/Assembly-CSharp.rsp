@@ -101,9 +101,9 @@
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"Assets/Plugins/Demigiant/DOTween/DOTween.dll"
--r:"C:/Bell Immersive Solutions/Projects/WHO Ship Sanitation Final/EGA/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
--r:"C:/Bell Immersive Solutions/Projects/WHO Ship Sanitation Final/EGA/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
--r:"C:/Bell Immersive Solutions/Projects/WHO Ship Sanitation Final/EGA/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"C:/Bell Immersive Solutions/Projects/EGA/EGA/EGA/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
+-r:"C:/Bell Immersive Solutions/Projects/EGA/EGA/EGA/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"C:/Bell Immersive Solutions/Projects/EGA/EGA/EGA/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"C:/Unity versions/2021.3.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Unity versions/2021.3.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"C:/Unity versions/2021.3.7f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -397,6 +397,8 @@
 "Assets/Scripts/MarkerController.cs"
 "Assets/Scripts/MissionMarkerTrigger.cs"
 "Assets/Scripts/SimpleCameraController.cs"
+"Assets/Scripts/TaskCompletedController.cs"
+"Assets/Scripts/TriggerReachedController.cs"
 "Assets/Scripts/UITweenController.cs"
 "Assets/Scripts/World/Props/PropDisplay.cs"
 "Assets/Scripts/World/Props/PropIndicator.cs"
