@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5cfcdc0cdddad164d9559525c3c710f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lockPositionTransform: {instanceID: 0}
+  - uIInstruction: {instanceID: 0}
+  - startSound: {instanceID: 0}
+  - endSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
